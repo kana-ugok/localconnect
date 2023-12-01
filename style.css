@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  font-family: 'M PLUS Rounded 1c';
+  color: #24211c;
+  margin: 0;
+}
+
+img {
+  height: 400px;
+}
+
+.title_logo {
+  width: 500px;
+  height: auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.TOP {
+  background-color: #ffeded;
+  margin-bottom: 50px;
+}
+
+.introduction p:first-child {
+  font-size: 1.9em;
+}
+
+.introduction {
+  margin-bottom: 100px;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+h4 {
+  margin-top: 50px;
+}
+
+.howtouse {
+  background-color: #e3b3b3;
+  color: white;
+  padding-top: 60px;
+  margin-bottom: 60px;
+  padding-bottom: 30px;
+}
+
+.point p:first-child {
+  font-size: 1.4em;
+}
+
+.point {
+  background-color: #ffeded;
+  margin: 30px 300px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+
+  border-radius: 100px;
+}
